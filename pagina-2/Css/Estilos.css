@@ -1,0 +1,17 @@
+body{
+	background:url(../Imagenes/camion_rojo.bmp);
+}
+	/* Tamaño de fuente*/
+h1{
+	font-size:50px;
+}
+div p{
+	background:orange;
+	/* background-repeat:no-repeat*/
+	font-size:25px;
+	color:#000;
+	width:50%;
+	margin:20px 200px;		/* CENTRO EL CUADRO*/
+	padding:50px;			/* AGRANDO EL CUADRO*/
+	border:10px dotted #000;
+}
