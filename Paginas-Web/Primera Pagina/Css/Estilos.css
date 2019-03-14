@@ -1,0 +1,21 @@
+body {
+	background:#000000;
+	color:#fff
+	}
+	/* Selector de etiqueta*/
+h1,h3{
+	color:purple
+}
+
+	/* Tamaño de fuente*/
+h1{
+	font-size:50px;
+}
+h3{
+	font-size:30px;
+}
+p i{		/* Los I (letra cursiva) que este dentro del parrafo*/
+	color:red;
+	background:#ff0;
+	font-size:20px;
+}
